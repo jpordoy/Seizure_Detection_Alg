@@ -1,0 +1,116 @@
+[
+    {
+        "dataTime": "16-05-2022 21:51:29",
+        "datapoints": [
+            {
+                "dataTime": "16-05-2022 21:50:19",
+                "eventId": 5580,
+                "hr": 76,
+                "id": 92226,
+                "userId": 45,
+                "specPower": 1187,
+                "roiPower": 5585,
+                "roiRatio": 47,
+                "alarmState": 0,
+                "alarmPhrase": "OK",
+                "o2Sat": -1,
+                "simpleSpec": [],
+                "rawData": [1, 2, 3, 4, 5]
+            },
+            {
+                "dataTime": "16-05-2022 21:50:24",
+                "eventId": 5580,
+                "hr": 73,
+                "id": 92225,
+                "userId": 45,
+                "specPower": 435,
+                "roiPower": 1275,
+                "roiRatio": 29,
+                "alarmState": 0,
+                "alarmPhrase": "OK",
+                "o2Sat": -1,
+                "simpleSpec": [],
+                "rawData": [6, 7, 8, 9]
+            },
+            {
+                "dataTime": "16-05-2022 21:50:29",
+                "eventId": 5580,
+                "hr": 74,
+                "id": 92224,
+                "userId": 45,
+                "specPower": 167,
+                "roiPower": 1252,
+                "roiRatio": 74,
+                "alarmState": 0,
+                "alarmPhrase": "OK",
+                "o2Sat": -1,
+                "simpleSpec": [],
+                "rawData": [10, 11, 12, 13]
+            }
+        ],
+        "desc": "null",
+        "id": 5580,
+        "osdAlarmState": 2,
+        "subType": "Tonic-Clonic",
+        "type": "Seizure",
+        "userId": 45,
+        "seizureTimes": [-30.0, 15.0]
+    },
+    {
+        "dataTime": "16-05-2022 21:51:29",
+        "datapoints": [
+            {
+                "dataTime": "16-05-2022 21:50:19",
+                "eventId": 5581,
+                "hr": 76,
+                "id": 92226,
+                "userId": 45,
+                "specPower": 1187,
+                "roiPower": 5585,
+                "roiRatio": 47,
+                "alarmState": 0,
+                "alarmPhrase": "OK",
+                "o2Sat": -1,
+                "simpleSpec": [],
+                "rawData": [1, 2, 3, 4, 5]
+            },
+            {
+                "dataTime": "16-05-2022 21:50:24",
+                "eventId": 5581,
+                "hr": 73,
+                "id": 92225,
+                "userId": 45,
+                "specPower": 435,
+                "roiPower": 1275,
+                "roiRatio": 29,
+                "alarmState": 0,
+                "alarmPhrase": "OK",
+                "o2Sat": -1,
+                "simpleSpec": [],
+                "rawData": [6, 7, 8, 9]
+            },
+            {
+                "dataTime": "16-05-2022 21:50:29",
+                "eventId": 5581,
+                "hr": 74,
+                "id": 92224,
+                "userId": 45,
+                "specPower": 167,
+                "roiPower": 1252,
+                "roiRatio": 74,
+                "alarmState": 0,
+                "alarmPhrase": "OK",
+                "o2Sat": -1,
+                "simpleSpec": [],
+                "rawData": [10, 11, 12, 13]
+            }
+        ],
+        "desc": "null",
+        "id": 5581,
+        "osdAlarmState": 2,
+        "subType": "Tonic-Clonic",
+        "type": "Seizure",
+        "userId": 45,
+        "seizureTimes": [-30.0, 15.0]
+    }
+]
